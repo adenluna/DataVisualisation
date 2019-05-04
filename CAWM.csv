@@ -1,21 +1,21 @@
-stroke,stroke-width,stroke-opacity,fill,fill-opacity,name,Malicious Activities,Name
-#831000,1.5,1,#ff4a4f,1,Israel,1%,
-#7f0000,1,1,#a40000,0.5,China,9%,
-#b51a00,2,1,#ff0050,0.5,,3%,Turkey
-#b51a00,2,1,#ff0050,0.5,,3%,Poland
-#ff0800,2,1,#ff344f,0.5,,2%,Taiwan
-#831000,2,1,#ff4a4f,0.5,,1%,Argentina
-#ff2600,2,1,#ff2600,0.5,,1%,Australia
-#ff0800,1,1,#ff344f,0.5,,2%,Mexico
-#000000,1,1,#780000,0.5,,23%,United States of America
-#b51a00,2,1,#ff0050,0.5,,3%,India
-#3c071b,2,1,#ff0000,0.5,,4%,Brazil
-#b51a00,2,1,#ff0050,0.5,,3%,France
-#b51a00,2,1,#ff0050,0.5,,3%,Italy
-#7f0000,2,1,#c40000,0.5,,6%,Germany
-#79193d,2,1,#ea0000,0.5,,5%,United Kingdom
-#ff0800,1,1,#ff344f,0.5,,2%,Canada
-#ff0800,1,1,#ff344f,0.5,,2%,Russia
-#3c071b,2,1,#ff0000,0.5,,4%,Spain
-#ff0800,2,1,#ff344f,0.5,,2%,South Korea
-#ff0800,2,1,#ff344f,0.5,,2%,Japan
+Name, Malicious Activity 
+USA, 23%
+China, 9%
+Germany, 6%
+Britain, 5%
+Brazil, 4%
+Spain, 4%
+Italy, 3%
+France, 3%
+Turkey, 3%
+Poland, 3%
+India, 3%
+Russia, 2%
+Canada, 2%
+South Korea, 2%
+Taiwan, 2%
+Japan, 2%
+Mexico, 2%
+Argentina, 1%
+Australia, 1%
+Israel, 1%
